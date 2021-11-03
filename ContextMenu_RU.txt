@@ -1,7 +1,7 @@
 ContextMenu_RU = {	
 	
-	ContextMenu_ISA_BatteryBankStatus = "Проверить",
-	ContextMenu_ISA_DiagnoseBankIssues = "Переподключить",
-	ContextMenu_ISA_NoPanels = "У вас нет подключенных солнечный панелей.",
+	ContextMenu_ISA_BatteryBankStatus = "РџСЂРѕРІРµСЂРёС‚СЊ",
+	ContextMenu_ISA_DiagnoseBankIssues = "РџРµСЂРµРїРѕРґРєР»СЋС‡РёС‚СЊ",
+	ContextMenu_ISA_NoPanels = "РЈ РІР°СЃ РЅРµС‚ РїРѕРґРєР»СЋС‡РµРЅРЅС‹С… СЃРѕР»РЅРµС‡РЅС‹Р№ РїР°РЅРµР»РµР№.",
 
 }
